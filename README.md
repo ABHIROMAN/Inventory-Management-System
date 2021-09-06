@@ -1,4 +1,4 @@
-# ETG-Inventory-Management-System
+# Inventory-Management-System
 This repository is having all the codes with json files for making an Inventory Management system during ETG AI/ML Internship.
 
 ## I have made an inventory management system which is working on NOSQL based database
